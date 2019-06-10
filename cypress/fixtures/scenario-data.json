@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Scenario 1",
+        "data": {
+            "email": "Value1@xyz.com"
+        }
+    },
+    {
+        "name": "Scenario 2",
+        "data": {
+            "email": "value2@xyz.com"
+        }
+    }
+]
